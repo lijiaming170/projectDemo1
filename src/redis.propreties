@@ -1,0 +1,5 @@
+MaxIdle=30
+MinIdle=10
+MaxTotal=100
+url=localhost
+prot=6379
